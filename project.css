@@ -163,7 +163,7 @@ body{
     text-align: center;
     padding: 1rem 1.5rem;
     color: var(--white);
-    background: ;
+    background: var(--button);
     border-radius: 6rem;
     background-color: var(--button);
     border: none;

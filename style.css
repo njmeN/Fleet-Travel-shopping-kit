@@ -45,6 +45,10 @@ body{
     letter-spacing: -0.01em;
     color: var(--gray);
 }
+.hero-button:hover, .about-button:hover{
+    background-color: #2f5bca;
+    transition: all 0.5s;
+}
 /*----------------------------------------------------------------------------------*/ 
 /*STYLE*/
 
@@ -346,6 +350,7 @@ body{
      background: #58C27D;
 } 
 .about-button{
+    cursor: pointer;
     font-weight: 700;
     font-size: 1rem;
     line-height: 1rem;
@@ -377,6 +382,7 @@ body{
     backdrop-filter: blur(1rem);
     border-radius: 5rem;
 }
+
 .over-flamingo ul{
     list-style: none;
     align-items: center;

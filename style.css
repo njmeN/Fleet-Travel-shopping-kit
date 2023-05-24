@@ -732,7 +732,7 @@ body{
         background-color: #F4F5F6;
         border-top-right-radius: 1.5rem;
         border-top-left-radius:1.5rem;
-        border-width: 0;
+        border-color: #F4F5F6;
     }
     .hero-frame{
         height:27.5rem;

@@ -823,5 +823,7 @@ body{
     .product-card-main{
         flex-direction: column;
     }
-    
+    .product-card div:first-child img{
+        width:21rem;
+    }
 }
